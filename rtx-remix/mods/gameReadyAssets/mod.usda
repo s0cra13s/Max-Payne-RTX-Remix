@@ -23,8 +23,8 @@ over "RootNode"
                     }
                     displayGroup = "Emissive"
                     displayName = "Emissive Color"
-                    doc = """The emissive color when no emissive color texture is specified.
-
+                    doc = """The emissive color when no emissive color texture is specified.\r
+\r
 """
                     hidden = false
                     renderType = "color"
@@ -39,8 +39,8 @@ over "RootNode"
                     }
                     displayGroup = "Emissive"
                     displayName = "Emissive Intensity"
-                    doc = """Intensity of the emission
-
+                    doc = """Intensity of the emission\r
+\r
 """
                     hidden = false
                 )
@@ -50,8 +50,8 @@ over "RootNode"
                     }
                     displayGroup = "Emissive"
                     displayName = "Enable Emission"
-                    doc = """Enables the emission of light from the material
-
+                    doc = """Enables the emission of light from the material\r
+\r
 """
                     hidden = false
                 )
@@ -65,8 +65,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -87,8 +87,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -109,8 +109,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -131,8 +131,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -153,8 +153,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -175,8 +175,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Anisotropy Amount"
-                    doc = """0 for isotropic, extents of -1 to 1 for anisotropy
-
+                    doc = """0 for isotropic, extents of -1 to 1 for anisotropy\r
+\r
 """
                     hidden = false
                 )
@@ -190,8 +190,8 @@ over "RootNode"
                     }
                     displayGroup = "Diffuse"
                     displayName = "Albedo Base Color"
-                    doc = """The base albedo color to use if no texture is specified
-
+                    doc = """The base albedo color to use if no texture is specified\r
+\r
 """
                     hidden = false
                     renderType = "color"
@@ -202,8 +202,8 @@ over "RootNode"
                     }
                     displayGroup = "Diffuse"
                     displayName = "Enable thin film"
-                    doc = """Adds a thin film coating to the material
-
+                    doc = """Adds a thin film coating to the material\r
+\r
 """
                     hidden = false
                 )
@@ -217,8 +217,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -232,8 +232,8 @@ over "RootNode"
                     }
                     displayGroup = "Diffuse"
                     displayName = "Opacity Amount"
-                    doc = """Used when no albedo texture is specified. 0 for completely transparent, 1 for completly opaque.
-
+                    doc = """Used when no albedo texture is specified. 0 for completely transparent, 1 for completly opaque.\r
+\r
 """
                     hidden = false
                 )
@@ -247,8 +247,8 @@ over "RootNode"
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -272,8 +272,8 @@ over "RootNode"
                     }
                     displayGroup = "Subsurface"
                     displayName = "Subsurface Transmittance Color"
-                    doc = """The transmittance color of subsurface materials. This property can be easily considered as the light color after passing through volume.
-This parameter is unused.
+                    doc = """The transmittance color of subsurface materials. This property can be easily considered as the light color after passing through volume.\r
+This parameter is unused.\r
 """
                     hidden = false
                     renderType = "color"
@@ -295,8 +295,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Albedo Base Color"
-                    doc = """The base albedo color to use if no texture is specified
-
+                    doc = """The base albedo color to use if no texture is specified\r
+\r
 """
                     hidden = false
                     renderType = "color"
@@ -307,8 +307,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Enable thin film"
-                    doc = """Adds a thin film coating to the material
-
+                    doc = """Adds a thin film coating to the material\r
+\r
 """
                     hidden = false
                 )
@@ -322,8 +322,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -337,8 +337,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Opacity Amount"
-                    doc = """Used when no albedo texture is specified. 0 for completely transparent, 1 for completly opaque.
-
+                    doc = """Used when no albedo texture is specified. 0 for completely transparent, 1 for completly opaque.\r
+\r
 """
                     hidden = false
                 )
@@ -352,8 +352,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -367,8 +367,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Thin film constant thickness in nm"
-                    doc = """Thickness of the thin film if not specified in albedo texture
-
+                    doc = """Thickness of the thin film if not specified in albedo texture\r
+\r
 """
                     hidden = false
                 )
@@ -378,8 +378,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Thin film thickness from albedo alpha"
-                    doc = """Uses the alpha channel from albedo as source for the thin film thickness. Alpha value is scaled by 1500 and represents thickness in nanometers. Opacity becomes fully opaque in this case.
-
+                    doc = """Uses the alpha channel from albedo as source for the thin film thickness. Alpha value is scaled by 1500 and represents thickness in nanometers. Opacity becomes fully opaque in this case.\r
+\r
 """
                     hidden = false
                 )
@@ -400,8 +400,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -415,8 +415,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -437,8 +437,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -452,8 +452,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -474,8 +474,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -489,8 +489,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -511,8 +511,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Anisotropy Amount"
-                    doc = """0 for isotropic, extents of -1 to 1 for anisotropy
-
+                    doc = """0 for isotropic, extents of -1 to 1 for anisotropy\r
+\r
 """
                     hidden = false
                 )
@@ -522,8 +522,8 @@ This parameter is unused.
                     }
                     displayGroup = "Material Flags"
                     displayName = "Blend Enabled"
-                    doc = """Indicates if alpha state blending should be enabled.
-
+                    doc = """Indicates if alpha state blending should be enabled.\r
+\r
 """
                     hidden = false
                 )
@@ -533,8 +533,8 @@ This parameter is unused.
                     }
                     displayGroup = "Material Flags"
                     displayName = "Blend Type"
-                    doc = """The alpha state blend type to use.
-This parameter is unused.
+                    doc = """The alpha state blend type to use.\r
+This parameter is unused.\r
 """
                     hidden = false
                     renderType = "BlendType"
@@ -553,15 +553,15 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Albedo Base Color"
-                    doc = """The base albedo color to use if no texture is specified
-
+                    doc = """The base albedo color to use if no texture is specified\r
+\r
 """
                     hidden = false
                     renderType = "color"
                 )
                 asset inputs:diffuse_texture = @@ (
-                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
-
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel\r
+\r
 """
                     hidden = false
                     renderType = "texture_2d"
@@ -572,8 +572,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Enable thin film"
-                    doc = """Adds a thin film coating to the material
-
+                    doc = """Adds a thin film coating to the material\r
+\r
 """
                     hidden = false
                 )
@@ -587,8 +587,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -602,8 +602,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Opacity Amount"
-                    doc = """Used when no albedo texture is specified. 0 for completely transparent, 1 for completly opaque.
-
+                    doc = """Used when no albedo texture is specified. 0 for completely transparent, 1 for completly opaque.\r
+\r
 """
                     hidden = false
                 )
@@ -617,8 +617,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -642,8 +642,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Thin film constant thickness in nm"
-                    doc = """Thickness of the thin film if not specified in albedo texture
-
+                    doc = """Thickness of the thin film if not specified in albedo texture\r
+\r
 """
                     hidden = false
                 )
@@ -653,8 +653,8 @@ This parameter is unused.
                     }
                     displayGroup = "Diffuse"
                     displayName = "Thin film thickness from albedo alpha"
-                    doc = """Uses the alpha channel from albedo as source for the thin film thickness. Alpha value is scaled by 1500 and represents thickness in nanometers. Opacity becomes fully opaque in this case.
-
+                    doc = """Uses the alpha channel from albedo as source for the thin film thickness. Alpha value is scaled by 1500 and represents thickness in nanometers. Opacity becomes fully opaque in this case.\r
+\r
 """
                     hidden = false
                 )
@@ -664,8 +664,8 @@ This parameter is unused.
                     }
                     displayGroup = "Material Flags"
                     displayName = "Use Legacy Alpha State"
-                    doc = """Indicates if the alpha state should be derived from legacy information (the drawcall), or specified in the MDL.
-
+                    doc = """Indicates if the alpha state should be derived from legacy information (the drawcall), or specified in the MDL.\r
+\r
 """
                     hidden = false
                 )
@@ -686,8 +686,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -708,8 +708,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Anisotropy Amount"
-                    doc = """0 for isotropic, extents of -1 to 1 for anisotropy
-
+                    doc = """0 for isotropic, extents of -1 to 1 for anisotropy\r
+\r
 """
                     hidden = false
                 )
@@ -723,8 +723,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -738,8 +738,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -760,8 +760,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -775,8 +775,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -797,8 +797,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -819,8 +819,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Metallic Amount"
-                    doc = """Metallic Material
-
+                    doc = """Metallic Material\r
+\r
 """
                     hidden = false
                 )
@@ -834,8 +834,8 @@ This parameter is unused.
                     }
                     displayGroup = "Specular"
                     displayName = "Roughness Amount"
-                    doc = """Higher roughness values lead to more blurry reflections
-
+                    doc = """Higher roughness values lead to more blurry reflections\r
+\r
 """
                     hidden = false
                 )
@@ -870,7 +870,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -894,7 +894,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -918,7 +918,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -942,7 +942,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -966,7 +966,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1001,7 +1001,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1024,7 +1024,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1047,7 +1047,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1070,7 +1070,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1093,7 +1093,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1116,7 +1116,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1139,7 +1139,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1162,7 +1162,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1185,7 +1185,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1208,7 +1208,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1231,7 +1231,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1254,7 +1254,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1277,7 +1277,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1300,7 +1300,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1323,7 +1323,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1346,7 +1346,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1369,7 +1369,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1392,7 +1392,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1415,7 +1415,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1438,7 +1438,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1461,7 +1461,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1484,7 +1484,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1507,7 +1507,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1530,7 +1530,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1553,7 +1553,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1576,7 +1576,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1599,7 +1599,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1622,7 +1622,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1645,7 +1645,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1668,7 +1668,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1691,7 +1691,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -1723,17 +1723,18 @@ This parameter is unused.
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
                     float inputs:colorTemperature = 9000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 14.6
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 0.5
-                    bool inputs:normalize = 1
-                    float inputs:shaping:cone:angle = 87.1
+                    float inputs:intensity = 15000
+                    bool inputs:normalize = 0
+                    float inputs:shaping:cone:angle = 90
                     float inputs:shaping:cone:softness = 0
                     float inputs:shaping:focus = 0
                     color3f inputs:shaping:focusTint
                     asset inputs:shaping:ies:file
                     bool inputs:shaping:ies:normalize = 0
                     float inputs:width = 100
+                    bool isProjector = 0
                     double3 xformOp:rotateXYZ = (222.79906550372743, 0, 0)
                     double3 xformOp:scale = (0.00883, 0.00158, 0.00282)
                     double3 xformOp:translate = (1.860132835349969, 1.5439547536599436, 9.092051974687285)
@@ -1747,17 +1748,18 @@ This parameter is unused.
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
                     float inputs:colorTemperature = 9000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 14.6
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 0.5
-                    bool inputs:normalize = 1
-                    float inputs:shaping:cone:angle = 87.1
+                    float inputs:intensity = 15000
+                    bool inputs:normalize = 0
+                    float inputs:shaping:cone:angle = 90
                     float inputs:shaping:cone:softness = 0
                     float inputs:shaping:focus = 0
                     color3f inputs:shaping:focusTint
                     asset inputs:shaping:ies:file
                     bool inputs:shaping:ies:normalize = 0
                     float inputs:width = 100
+                    bool isProjector = 0
                     double3 xformOp:rotateXYZ = (222.79906550372743, 0, 0)
                     double3 xformOp:scale = (0.00883, 0.00158, 0.00282)
                     double3 xformOp:translate = (0.8086345192033954, 1.543954753659929, 9.092051974687303)
@@ -1771,17 +1773,18 @@ This parameter is unused.
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
                     float inputs:colorTemperature = 9000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 14.6
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 0.5
-                    bool inputs:normalize = 1
-                    float inputs:shaping:cone:angle = 87.1
+                    float inputs:intensity = 15000
+                    bool inputs:normalize = 0
+                    float inputs:shaping:cone:angle = 90
                     float inputs:shaping:cone:softness = 0
                     float inputs:shaping:focus = 0
                     color3f inputs:shaping:focusTint
                     asset inputs:shaping:ies:file
                     bool inputs:shaping:ies:normalize = 0
                     float inputs:width = 100
+                    bool isProjector = 0
                     double3 xformOp:rotateXYZ = (222.79906550372743, 0, 0)
                     double3 xformOp:scale = (0.00883, 0.00158, 0.00282)
                     double3 xformOp:translate = (-0.1889509761441761, 1.543954753659929, 9.092051974687303)
@@ -1821,11 +1824,11 @@ This parameter is unused.
                     )
                     {
                         float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                        float inputs:colorTemperature = 5300
+                        float inputs:colorTemperature = 5000
                         bool inputs:enableColorTemperature = 1
                         float inputs:exposure = 0
                         float inputs:height = 100
-                        float inputs:intensity = 9000
+                        float inputs:intensity = 11000
                         bool inputs:normalize = 1
                         float inputs:shaping:cone:angle = 180
                         float inputs:shaping:cone:softness
@@ -1844,11 +1847,11 @@ This parameter is unused.
                     )
                     {
                         float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                        float inputs:colorTemperature = 5300
+                        float inputs:colorTemperature = 5000
                         bool inputs:enableColorTemperature = 1
                         float inputs:exposure = 0
                         float inputs:height = 100
-                        float inputs:intensity = 9000
+                        float inputs:intensity = 11000
                         bool inputs:normalize = 1
                         float inputs:shaping:cone:angle = 180
                         float inputs:shaping:cone:softness
@@ -1867,11 +1870,11 @@ This parameter is unused.
                     )
                     {
                         float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                        float inputs:colorTemperature = 5300
+                        float inputs:colorTemperature = 5000
                         bool inputs:enableColorTemperature = 1
                         float inputs:exposure = 0
                         float inputs:height = 100
-                        float inputs:intensity = 9000
+                        float inputs:intensity = 11000
                         bool inputs:normalize = 1
                         float inputs:shaping:cone:angle = 180
                         float inputs:shaping:cone:softness
@@ -1901,11 +1904,11 @@ This parameter is unused.
                     )
                     {
                         float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                        float inputs:colorTemperature = 5300
+                        float inputs:colorTemperature = 5000
                         bool inputs:enableColorTemperature = 1
                         float inputs:exposure = 0
                         float inputs:height = 100
-                        float inputs:intensity = 9000
+                        float inputs:intensity = 11000
                         bool inputs:normalize = 1
                         float inputs:shaping:cone:angle = 180
                         float inputs:shaping:cone:softness
@@ -1924,11 +1927,11 @@ This parameter is unused.
                     )
                     {
                         float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                        float inputs:colorTemperature = 5300
+                        float inputs:colorTemperature = 5000
                         bool inputs:enableColorTemperature = 1
                         float inputs:exposure = 0
                         float inputs:height = 100
-                        float inputs:intensity = 9000
+                        float inputs:intensity = 11000
                         bool inputs:normalize = 1
                         float inputs:shaping:cone:angle = 180
                         float inputs:shaping:cone:softness
@@ -1958,11 +1961,11 @@ This parameter is unused.
                     )
                     {
                         float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                        float inputs:colorTemperature = 5300
+                        float inputs:colorTemperature = 5000
                         bool inputs:enableColorTemperature = 1
                         float inputs:exposure = 0
                         float inputs:height = 100
-                        float inputs:intensity = 9000
+                        float inputs:intensity = 11000
                         bool inputs:normalize = 1
                         float inputs:shaping:cone:angle = 180
                         float inputs:shaping:cone:softness
@@ -1981,11 +1984,11 @@ This parameter is unused.
                     )
                     {
                         float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                        float inputs:colorTemperature = 5300
+                        float inputs:colorTemperature = 5000
                         bool inputs:enableColorTemperature = 1
                         float inputs:exposure = 0
                         float inputs:height = 100
-                        float inputs:intensity = 9000
+                        float inputs:intensity = 11000
                         bool inputs:normalize = 1
                         float inputs:shaping:cone:angle = 180
                         float inputs:shaping:cone:softness
@@ -2027,7 +2030,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2050,7 +2053,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2091,7 +2094,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2114,7 +2117,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2137,7 +2140,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2160,7 +2163,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2183,7 +2186,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2206,7 +2209,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2229,7 +2232,7 @@ This parameter is unused.
                     bool inputs:enableColorTemperature = 1
                     float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 9000
+                    float inputs:intensity = 11000
                     bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
@@ -2328,12 +2331,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2351,12 +2354,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2374,12 +2377,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2397,12 +2400,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2420,12 +2423,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2443,12 +2446,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2466,12 +2469,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2489,12 +2492,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2512,12 +2515,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2546,12 +2549,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2569,12 +2572,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2592,12 +2595,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2615,12 +2618,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2638,12 +2641,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2661,12 +2664,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2684,12 +2687,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2707,12 +2710,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2730,12 +2733,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2753,12 +2756,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2776,12 +2779,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2799,12 +2802,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2822,12 +2825,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2845,12 +2848,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2879,12 +2882,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2902,12 +2905,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2925,12 +2928,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2948,12 +2951,12 @@ This parameter is unused.
                 )
                 {
                     float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                    float inputs:colorTemperature = 5300
+                    float inputs:colorTemperature = 5000
                     bool inputs:enableColorTemperature = 1
-                    float inputs:exposure = 10.8
+                    float inputs:exposure = 0
                     float inputs:height = 100
-                    float inputs:intensity = 10.3
-                    bool inputs:normalize = 0
+                    float inputs:intensity = 11000
+                    bool inputs:normalize = 1
                     float inputs:shaping:cone:angle = 180
                     float inputs:shaping:cone:softness
                     float inputs:shaping:focus = 0
@@ -2979,12 +2982,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -3002,12 +3005,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -3025,12 +3028,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -3055,12 +3058,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -3078,12 +3081,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -3101,12 +3104,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -3124,12 +3127,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -3147,12 +3150,12 @@ This parameter is unused.
             )
             {
                 float3[] extent = [(-50, -50, -0), (50, 50, 0)]
-                float inputs:colorTemperature = 5300
+                float inputs:colorTemperature = 5000
                 bool inputs:enableColorTemperature = 1
-                float inputs:exposure = 10.8
+                float inputs:exposure = 0
                 float inputs:height = 100
-                float inputs:intensity = 10.3
-                bool inputs:normalize = 0
+                float inputs:intensity = 11000
+                bool inputs:normalize = 1
                 float inputs:shaping:cone:angle = 180
                 float inputs:shaping:cone:softness
                 float inputs:shaping:focus = 0
@@ -5104,23 +5107,6 @@ This parameter is unused.
         active = false
     )
     {
-    }
-
-    over "instances"
-    {
-        over "inst_1F60A727B041127D_0"
-        {
-            over "Platform"
-            {
-                over "RectLight_18"
-                {
-                    double3 xformOp:rotateXYZ = (-90, 1.4124500318633039e-30, 7.0167091267055864e-15)
-                    double3 xformOp:scale = (-0.008990000002086163, -0.0019600000232458115, -0.008215822279453278)
-                    double3 xformOp:translate = (26.20334781376296, 2.1197899999998295, 3.2494363412918417)
-                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
-                }
-            }
-        }
     }
 }
 
