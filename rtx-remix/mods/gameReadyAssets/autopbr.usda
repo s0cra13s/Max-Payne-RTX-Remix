@@ -1,0 +1,2905 @@
+#usda 1.0
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_0576B610B238E914"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/0576B610B238E914_diffuse.dds@
+            }
+        }
+
+        over "mat_0856F8A807FB29FC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/0856F8A807FB29FC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/0856F8A807FB29FC_normal.dds@
+            }
+        }
+
+        over "mat_0AE7916B8BDA2B27"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/0AE7916B8BDA2B27_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/0AE7916B8BDA2B27_normal.dds@
+            }
+        }
+
+        over "mat_0C7AF015CB264EB8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/0C7AF015CB264EB8_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/0C7AF015CB264EB8_normal.dds@
+            }
+        }
+
+        over "mat_0D9C630BDB6AA6CE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/0D9C630BDB6AA6CE_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/0D9C630BDB6AA6CE_normal.dds@
+            }
+        }
+
+        over "mat_0DBBC0F9C63E952B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/0DBBC0F9C63E952B_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/0DBBC0F9C63E952B_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_0E810507696506F2"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/0E810507696506F2_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/0E810507696506F2_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_105467FEFBE6B1F3"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/105467FEFBE6B1F3_diffuse.dds@
+            }
+        }
+
+        over "mat_115E956FEF8A6877"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/115E956FEF8A6877_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/115E956FEF8A6877_normal.dds@
+            }
+        }
+
+        over "mat_11FC9D839E672D70"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/11FC9D839E672D70_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/11FC9D839E672D70_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_120F96D8D3E493F8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/120F96D8D3E493F8_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/120F96D8D3E493F8_normal.dds@
+            }
+        }
+
+        over "mat_12534227AC585E1F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/12534227AC585E1F_diffuse.dds@
+            }
+        }
+
+        over "mat_15083586AF61C911"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/15083586AF61C911_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/15083586AF61C911_normal.dds@
+            }
+        }
+
+        over "mat_17627BC29D243B00"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/17627BC29D243B00_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/17627BC29D243B00_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_19883FDB79FA5ADC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/19883FDB79FA5ADC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/19883FDB79FA5ADC_normal.dds@
+            }
+        }
+
+        over "mat_1BDCE665226EC6E7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/1BDCE665226EC6E7_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/1BDCE665226EC6E7_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_234D596FA938C353"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/234D596FA938C353_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/234D596FA938C353_normal.dds@
+            }
+        }
+
+        over "mat_242A5FDD2705C9AF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/242A5FDD2705C9AF_diffuse.dds@
+            }
+        }
+
+        over "mat_26AE30D074D719FC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/26AE30D074D719FC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/26AE30D074D719FC_normal.dds@
+            }
+        }
+
+        over "mat_28EE338AC0621FD9"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/28EE338AC0621FD9_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/28EE338AC0621FD9_normal.dds@
+            }
+        }
+
+        over "mat_2BC47C01CE615896"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/2BC47C01CE615896_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/2BC47C01CE615896_normal.dds@
+            }
+        }
+
+        over "mat_2C2558F24634B692"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/2C2558F24634B692_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/2C2558F24634B692_normal.dds@
+            }
+        }
+
+        over "mat_2E81311FF03739E4"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/2E81311FF03739E4_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/2E81311FF03739E4_normal.dds@
+            }
+        }
+
+        over "mat_2EA2772C30CF786B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/2EA2772C30CF786B_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/2EA2772C30CF786B_normal.dds@
+            }
+        }
+
+        over "mat_2EB8F1604F804B27"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/2EB8F1604F804B27_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_3242C04CD2023DFC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/3242C04CD2023DFC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/3242C04CD2023DFC_normal.dds@
+            }
+        }
+
+        over "mat_3285732E5CBE0039"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/3285732E5CBE0039_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/3285732E5CBE0039_normal.dds@
+            }
+        }
+
+        over "mat_34826FBCD087DC1D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/34826FBCD087DC1D_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/34826FBCD087DC1D_normal.dds@
+            }
+        }
+
+        over "mat_35D5255F78E7917D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/35D5255F78E7917D_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/35D5255F78E7917D_normal.dds@
+            }
+        }
+
+        over "mat_37336C064BB24ABF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/37336C064BB24ABF_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/37336C064BB24ABF_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_3944A7F6F77B713F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/3944A7F6F77B713F_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/3944A7F6F77B713F_normal.dds@
+            }
+        }
+
+        over "mat_3B64A5070379EF97"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/3B64A5070379EF97_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/3B64A5070379EF97_normal.dds@
+            }
+        }
+
+        over "mat_3E7FEBA6F17A2622"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/3E7FEBA6F17A2622_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/3E7FEBA6F17A2622_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_3E82917CDC8A275E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/3E82917CDC8A275E_diffuse.dds@
+            }
+        }
+
+        over "mat_3EEE36D238FAAC4F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/3EEE36D238FAAC4F_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/3EEE36D238FAAC4F_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_4223938867C9DF09"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4223938867C9DF09_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4223938867C9DF09_normal.dds@
+            }
+        }
+
+        over "mat_430A427D73741BAC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/430A427D73741BAC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/430A427D73741BAC_normal.dds@
+            }
+        }
+
+        over "mat_434FD0868F64447F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/434FD0868F64447F_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/434FD0868F64447F_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_43FC8EE1FA7D9717"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/43FC8EE1FA7D9717_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/43FC8EE1FA7D9717_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_4412FAE2A5C2719C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4412FAE2A5C2719C_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4412FAE2A5C2719C_normal.dds@
+            }
+        }
+
+        over "mat_444F2F8F2BF48935"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/444F2F8F2BF48935_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/444F2F8F2BF48935_normal.dds@
+            }
+        }
+
+        over "mat_44F509F3BDA9C6B7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/44F509F3BDA9C6B7_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/44F509F3BDA9C6B7_normal.dds@
+            }
+        }
+
+        over "mat_4765B3E7A02492E2"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4765B3E7A02492E2_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_48DE20B5DCC00D9B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/48DE20B5DCC00D9B_diffuse.dds@
+            }
+        }
+
+        over "mat_493EA5ECE0FEE6B3"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/493EA5ECE0FEE6B3_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/493EA5ECE0FEE6B3_normal.dds@
+            }
+        }
+
+        over "mat_4A95308B4B4FCF1E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4A95308B4B4FCF1E_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/4A95308B4B4FCF1E_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_4B6A85EC4D7ADAF2"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4B6A85EC4D7ADAF2_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/4B6A85EC4D7ADAF2_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_4B90529BC2742D61"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4B90529BC2742D61_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4B90529BC2742D61_normal.dds@
+            }
+        }
+
+        over "mat_4BC9F8FDA871815E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4BC9F8FDA871815E_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/4BC9F8FDA871815E_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_4D3C97A4B215F227"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4D3C97A4B215F227_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4D3C97A4B215F227_normal.dds@
+            }
+        }
+
+        over "mat_4D61F88F9E18D5BE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4D61F88F9E18D5BE_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4D61F88F9E18D5BE_normal.dds@
+            }
+        }
+
+        over "mat_4DDA5F5D5B861719"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4DDA5F5D5B861719_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4DDA5F5D5B861719_normal.dds@
+            }
+        }
+
+        over "mat_4EBA7DC3889A1426"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4EBA7DC3889A1426_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4EBA7DC3889A1426_normal.dds@
+            }
+        }
+
+        over "mat_4ED468AA5C69BEE4"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4ED468AA5C69BEE4_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4ED468AA5C69BEE4_normal.dds@
+            }
+        }
+
+        over "mat_4F2D457095256C91"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/4F2D457095256C91_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/4F2D457095256C91_normal.dds@
+            }
+        }
+
+        over "mat_50651E96D9C990FC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/50651E96D9C990FC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/50651E96D9C990FC_normal.dds@
+            }
+        }
+
+        over "mat_520CF3BC52E026BE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/520CF3BC52E026BE_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/520CF3BC52E026BE_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_539DD2A751947637"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/539DD2A751947637_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/539DD2A751947637_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_5781B1D1E299C897"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/5781B1D1E299C897_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/5781B1D1E299C897_normal.dds@
+            }
+        }
+
+        over "mat_58300F267D2A70DC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/58300F267D2A70DC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/58300F267D2A70DC_normal.dds@
+            }
+        }
+
+        over "mat_58ACBA21B6B3235F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/58ACBA21B6B3235F_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/58ACBA21B6B3235F_normal.dds@
+            }
+        }
+
+        over "mat_5C1B4AEB430BCC33"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/5C1B4AEB430BCC33_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/5C1B4AEB430BCC33_normal.dds@
+            }
+        }
+
+        over "mat_5C2E265043D86D0B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/5C2E265043D86D0B_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/5C2E265043D86D0B_normal.dds@
+            }
+        }
+
+        over "mat_5D48842A9D3F8134"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/5D48842A9D3F8134_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/5D48842A9D3F8134_normal.dds@
+            }
+        }
+
+        over "mat_5D896E708A29BE73"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/5D896E708A29BE73_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/5D896E708A29BE73_normal.dds@
+            }
+        }
+
+        over "mat_5E38330F75628A1E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/5E38330F75628A1E_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/5E38330F75628A1E_normal.dds@
+            }
+        }
+
+        over "mat_5FAD82223A07A69E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/5FAD82223A07A69E_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/5FAD82223A07A69E_normal.dds@
+            }
+        }
+
+        over "mat_600797505E59037B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/600797505E59037B_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/600797505E59037B_normal.dds@
+            }
+        }
+
+        over "mat_6328B86FB108FBFA"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/6328B86FB108FBFA_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/6328B86FB108FBFA_normal.dds@
+            }
+        }
+
+        over "mat_65A7673C8088AEC8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/65A7673C8088AEC8_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/65A7673C8088AEC8_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_66759B6754147993"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/66759B6754147993_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/66759B6754147993_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_66E27CE21FD2026E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/66E27CE21FD2026E_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/66E27CE21FD2026E_normal.dds@
+            }
+        }
+
+        over "mat_6823110B9B592B94"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/6823110B9B592B94_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/6823110B9B592B94_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_69B3B0020CA799A7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/69B3B0020CA799A7_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/69B3B0020CA799A7_normal.dds@
+            }
+        }
+
+        over "mat_6A72FD6E15BFB562"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/6A72FD6E15BFB562_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/6A72FD6E15BFB562_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_6B4526864103719F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/6B4526864103719F_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/6B4526864103719F_normal.dds@
+            }
+        }
+
+        over "mat_6B527C37EBEC4FE4"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/6B527C37EBEC4FE4_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/6B527C37EBEC4FE4_normal.dds@
+            }
+        }
+
+        over "mat_6CFA755C2499CC67"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/6CFA755C2499CC67_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/6CFA755C2499CC67_normal.dds@
+            }
+        }
+
+        over "mat_6FACCD2719F5B81A"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/6FACCD2719F5B81A_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/6FACCD2719F5B81A_normal.dds@
+            }
+        }
+
+        over "mat_7000A0A5186491EC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7000A0A5186491EC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7000A0A5186491EC_normal.dds@
+            }
+        }
+
+        over "mat_710CF14EC24AA0D2"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/710CF14EC24AA0D2_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/710CF14EC24AA0D2_normal.dds@
+            }
+        }
+
+        over "mat_71E510A5EFEB01B8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/71E510A5EFEB01B8_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/71E510A5EFEB01B8_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_730B0C185019D77D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/730B0C185019D77D_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/730B0C185019D77D_normal.dds@
+            }
+        }
+
+        over "mat_748A5D5AF2187C21"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/748A5D5AF2187C21_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/748A5D5AF2187C21_normal.dds@
+            }
+        }
+
+        over "mat_749013B32DAC9D7E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/749013B32DAC9D7E_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/749013B32DAC9D7E_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_74ECF6014F305CD7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/74ECF6014F305CD7_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_76F4E10176F30F0F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/76F4E10176F30F0F_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/76F4E10176F30F0F_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_7701D0A8A2AC63F6"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7701D0A8A2AC63F6_diffuse.dds@
+            }
+        }
+
+        over "mat_7766EE4BA317560D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7766EE4BA317560D_diffuse.dds@
+            }
+        }
+
+        over "mat_7859067B27579649"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7859067B27579649_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7859067B27579649_normal.dds@
+            }
+        }
+
+        over "mat_7A413524A39F0FB5"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7A413524A39F0FB5_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7A413524A39F0FB5_normal.dds@
+            }
+        }
+
+        over "mat_7AD59E3DBE303835"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7AD59E3DBE303835_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7AD59E3DBE303835_normal.dds@
+            }
+        }
+
+        over "mat_7AECC2A5B95F4948"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7AECC2A5B95F4948_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7AECC2A5B95F4948_normal.dds@
+            }
+        }
+
+        over "mat_7B2669557570E9B4"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7B2669557570E9B4_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7B2669557570E9B4_normal.dds@
+            }
+        }
+
+        over "mat_7B54C60511D42828"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7B54C60511D42828_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_7B94F8DF95355735"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7B94F8DF95355735_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7B94F8DF95355735_normal.dds@
+            }
+        }
+
+        over "mat_7C90E55C4F64F473"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7C90E55C4F64F473_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7C90E55C4F64F473_normal.dds@
+            }
+        }
+
+        over "mat_7E1AF8072950CEAC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7E1AF8072950CEAC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7E1AF8072950CEAC_normal.dds@
+            }
+        }
+
+        over "mat_7EC26CB06E157BA3"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7EC26CB06E157BA3_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_7EDD2EB8C8EB4F82"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/7EDD2EB8C8EB4F82_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/7EDD2EB8C8EB4F82_normal.dds@
+            }
+        }
+
+        over "mat_81DB2548B9B0C137"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/81DB2548B9B0C137_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/81DB2548B9B0C137_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_81F679C90CEE21D2"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/81F679C90CEE21D2_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/81F679C90CEE21D2_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_8249A1BBF6CE84AF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8249A1BBF6CE84AF_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/8249A1BBF6CE84AF_normal.dds@
+            }
+        }
+
+        over "mat_8338D76258DF0D30"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8338D76258DF0D30_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/8338D76258DF0D30_normal.dds@
+            }
+        }
+
+        over "mat_83531F5D2013B837"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/83531F5D2013B837_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/83531F5D2013B837_normal.dds@
+            }
+        }
+
+        over "mat_84E59BB2E19DAABF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/84E59BB2E19DAABF_diffuse.dds@
+            }
+        }
+
+        over "mat_862A67791B678635"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/862A67791B678635_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/862A67791B678635_normal.dds@
+            }
+        }
+
+        over "mat_868CB6D1B6477F09"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/868CB6D1B6477F09_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/868CB6D1B6477F09_normal.dds@
+            }
+        }
+
+        over "mat_878BD48F77875ECC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/878BD48F77875ECC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/878BD48F77875ECC_normal.dds@
+            }
+        }
+
+        over "mat_89737740025D7976"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/89737740025D7976_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/89737740025D7976_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_899B728D0887269D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/899B728D0887269D_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_8A42E501C24802E5"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8A42E501C24802E5_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/8A42E501C24802E5_normal.dds@
+            }
+        }
+
+        over "mat_8A79C3708E8A112F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8A79C3708E8A112F_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/8A79C3708E8A112F_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_8B3758B9ADA10FFD"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8B3758B9ADA10FFD_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/8B3758B9ADA10FFD_normal.dds@
+            }
+        }
+
+        over "mat_8C9C53224F8296FA"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8C9C53224F8296FA_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/8C9C53224F8296FA_normal.dds@
+            }
+        }
+
+        over "mat_8CB3E133A32FAECA"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8CB3E133A32FAECA_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/8CB3E133A32FAECA_normal.dds@
+            }
+        }
+
+        over "mat_8D283E72C7FB3E13"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8D283E72C7FB3E13_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_8FB816578CCB53E6"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/8FB816578CCB53E6_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/8FB816578CCB53E6_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_913017222F883BAE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/913017222F883BAE_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/913017222F883BAE_normal.dds@
+            }
+        }
+
+        over "mat_914039A728ADFA07"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/914039A728ADFA07_diffuse.dds@
+            }
+        }
+
+        over "mat_91A9AFD3AD9EB82E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/91A9AFD3AD9EB82E_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/91A9AFD3AD9EB82E_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_928739051C4AAA33"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/928739051C4AAA33_diffuse.dds@
+            }
+        }
+
+        over "mat_935FEC3ECDD02FB6"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/935FEC3ECDD02FB6_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/935FEC3ECDD02FB6_normal.dds@
+            }
+        }
+
+        over "mat_94B7383763CDD057"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/94B7383763CDD057_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/94B7383763CDD057_normal.dds@
+            }
+        }
+
+        over "mat_96B132EFA5F335E1"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/96B132EFA5F335E1_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/96B132EFA5F335E1_normal.dds@
+            }
+        }
+
+        over "mat_9A1EDA378CAA8CD8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/9A1EDA378CAA8CD8_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/9A1EDA378CAA8CD8_normal.dds@
+            }
+        }
+
+        over "mat_9A65C44A15C3118F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/9A65C44A15C3118F_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/9A65C44A15C3118F_normalX.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_9C048877196A440D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/9C048877196A440D_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/9C048877196A440D_normal.dds@
+            }
+        }
+
+        over "mat_9C7F1822B902D526"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/9C7F1822B902D526_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/9C7F1822B902D526_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_9CB9DAC2FB424C27"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/9CB9DAC2FB424C27_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_9CCA99753942E0B2"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/9CCA99753942E0B2_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/9CCA99753942E0B2_normal.dds@
+            }
+        }
+
+        over "mat_9FBACE43738680FA"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/9FBACE43738680FA_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/9FBACE43738680FA_normal.dds@
+            }
+        }
+
+        over "mat_A165379074723C5A"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/A165379074723C5A_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/A165379074723C5A_normal.dds@
+            }
+        }
+
+        over "mat_A3CC893C3D97D9FE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/A3CC893C3D97D9FE_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/A3CC893C3D97D9FE_normal.dds@
+            }
+        }
+
+        over "mat_A6805E4D52BFA25E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/A6805E4D52BFA25E_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/A6805E4D52BFA25E_normal.dds@
+            }
+        }
+
+        over "mat_A6F9F2A34772161C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/A6F9F2A34772161C_diffuse.dds@
+            }
+        }
+
+        over "mat_A73B33A9AF627D76"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/A73B33A9AF627D76_diffuse.dds@
+            }
+        }
+
+        over "mat_A74E425CBC5D84E9"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/A74E425CBC5D84E9_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/A74E425CBC5D84E9_normal.dds@
+            }
+        }
+
+        over "mat_A957D222232CEC39"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/A957D222232CEC39_diffuse.dds@
+            }
+        }
+
+        over "mat_AA535A3C0A833C10"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/AA535A3C0A833C10_diffuse.dds@
+            }
+        }
+
+        over "mat_ADB46DC48601D156"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/ADB46DC48601D156_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/ADB46DC48601D156_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_AE79C9906AFB7CD5"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/AE79C9906AFB7CD5_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/AE79C9906AFB7CD5_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_AE8252FF05B482B3"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/AE8252FF05B482B3_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/AE8252FF05B482B3_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_AEB6E50E4BDD3056"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/AEB6E50E4BDD3056_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/AEB6E50E4BDD3056_normal.dds@
+            }
+        }
+
+        over "mat_AF12E14913328F91"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/AF12E14913328F91_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/AF12E14913328F91_normal.dds@
+            }
+        }
+
+        over "mat_AFD05C29CBB2601E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/AFD05C29CBB2601E_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/AFD05C29CBB2601E_normal.dds@
+            }
+        }
+
+        over "mat_AFDEBE08A5F43577"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/AFDEBE08A5F43577_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/AFDEBE08A5F43577_normal.dds@
+            }
+        }
+
+        over "mat_B028E2CB4675E812"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B028E2CB4675E812_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/B028E2CB4675E812_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_B20BAAF0EFF0EB2C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B20BAAF0EFF0EB2C_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/B20BAAF0EFF0EB2C_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_B38478A615ED2D90"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B38478A615ED2D90_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/B38478A615ED2D90_normal.dds@
+            }
+        }
+
+        over "mat_B475C5F1C4B5A378"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B475C5F1C4B5A378_diffuse.dds@
+            }
+        }
+
+        over "mat_B4DC264672AFB4B2"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B4DC264672AFB4B2_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/B4DC264672AFB4B2_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_B5C43F6CF0544A70"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B5C43F6CF0544A70_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/B5C43F6CF0544A70_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_B64217ED77B27DFE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B64217ED77B27DFE_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/B64217ED77B27DFE_normal.dds@
+            }
+        }
+
+        over "mat_B69859BCC9774990"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B69859BCC9774990_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/B69859BCC9774990_normal.dds@
+            }
+        }
+
+        over "mat_B6CC051F76BEFFAE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B6CC051F76BEFFAE_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/B6CC051F76BEFFAE_normal.dds@
+            }
+        }
+
+        over "mat_B8483E2F4C36C410"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B8483E2F4C36C410_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/B8483E2F4C36C410_normal.dds@
+            }
+        }
+
+        over "mat_B87AA7C85708CB1C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/B87AA7C85708CB1C_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/B87AA7C85708CB1C_normal.dds@
+            }
+        }
+
+        over "mat_BA5E47E83A07C032"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/BA5E47E83A07C032_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/BA5E47E83A07C032_normal.dds@
+            }
+        }
+
+        over "mat_BC0B5479B2086E6A"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/BC0B5479B2086E6A.dds@
+            }
+        }
+
+        over "mat_BC88DF669EE7ACCB"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/BC88DF669EE7ACCB_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/BC88DF669EE7ACCB_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_BDFE66130E2AB713"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/BDFE66130E2AB713_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/BDFE66130E2AB713_normal.dds@
+            }
+        }
+
+        over "mat_C44F83F574F1E478"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/C44F83F574F1E478_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/C44F83F574F1E478_normal.dds@
+            }
+        }
+
+        over "mat_C5227C8AB5F43F9F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/C5227C8AB5F43F9F_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/C5227C8AB5F43F9F_normal.dds@
+            }
+        }
+
+        over "mat_C567BB44C3F88494"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/C567BB44C3F88494_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/C567BB44C3F88494_normal.dds@
+            }
+        }
+
+        over "mat_C939B21D9EF34E35"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/C939B21D9EF34E35_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/C939B21D9EF34E35_normal.dds@
+            }
+        }
+
+        over "mat_CA9CAC4BB8A0E9B8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/CA9CAC4BB8A0E9B8_diffuse.dds@
+            }
+        }
+
+        over "mat_CB91AD20FE157AD0"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/CB91AD20FE157AD0_diffuse.dds@
+            }
+        }
+
+        over "mat_CC6EC517AC553AA7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/CC6EC517AC553AA7_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/CC6EC517AC553AA7_normal.dds@
+            }
+        }
+
+        over "mat_CC8DFB526F9D709E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/CC8DFB526F9D709E_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_CFBA7A3707C98A9E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/CFBA7A3707C98A9E_diffuse.dds@
+            }
+        }
+
+        over "mat_D00EA5821957CC53"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D00EA5821957CC53_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/D00EA5821957CC53_normal.dds@
+            }
+        }
+
+        over "mat_D0B90AAF7F1B8450"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D0B90AAF7F1B8450_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/D0B90AAF7F1B8450_normal.dds@
+            }
+        }
+
+        over "mat_D0CD118F5F5264EC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D0CD118F5F5264EC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/D0CD118F5F5264EC_normal.dds@
+            }
+        }
+
+        over "mat_D255166EA174D28E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D255166EA174D28E_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/D255166EA174D28E_normal.dds@
+            }
+        }
+
+        over "mat_D4409B5AB27DA66A"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D4409B5AB27DA66A_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/D4409B5AB27DA66A_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_D46E4A7A0F28834B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D46E4A7A0F28834B_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/D46E4A7A0F28834B_normal.dds@
+            }
+        }
+
+        over "mat_D5A9E1CF87EBC345"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D5A9E1CF87EBC345_diffuse.dds@
+            }
+        }
+
+        over "mat_D5EC5F9E78F87FB9"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D5EC5F9E78F87FB9_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/D5EC5F9E78F87FB9_normal.dds@
+            }
+        }
+
+        over "mat_D68EAC1233EBA0D1"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D68EAC1233EBA0D1_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/D68EAC1233EBA0D1_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_D8BF1FC7F8198772"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/D8BF1FC7F8198772_diffuse.dds@
+            }
+        }
+
+        over "mat_DB713260F7D2862C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/DB713260F7D2862C_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/DB713260F7D2862C_normal.dds@
+            }
+        }
+
+        over "mat_DC56D470574524CC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/DC56D470574524CC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/DC56D470574524CC_normal.dds@
+            }
+        }
+
+        over "mat_DE5F15AB6DAF7941"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/DE5F15AB6DAF7941_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/DE5F15AB6DAF7941_normal.dds@
+            }
+        }
+
+        over "mat_DEFA52E0B722AA55"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/DEFA52E0B722AA55_diffuse.dds@
+            }
+        }
+
+        over "mat_E2EDB75573F4FED5"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E2EDB75573F4FED5_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_E3C920178F3A1CD8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E3C920178F3A1CD8_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/E3C920178F3A1CD8_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_E4018050960E17FD"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E4018050960E17FD_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/E4018050960E17FD_normal.dds@
+            }
+        }
+
+        over "mat_E64363849973DBC7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E64363849973DBC7_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/E64363849973DBC7_normal.dds@
+            }
+        }
+
+        over "mat_E6486D0B7CF7254C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E6486D0B7CF7254C_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/E6486D0B7CF7254C_normal.dds@
+            }
+        }
+
+        over "mat_E66BA7D2B9A00790"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E66BA7D2B9A00790_diffuseX.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/E66BA7D2B9A00790_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_E69BBB7904B5EAD0"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E69BBB7904B5EAD0_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/E69BBB7904B5EAD0_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_E7D3074C23F0D09E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E7D3074C23F0D09E_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/E7D3074C23F0D09E_normal.dds@
+            }
+        }
+
+        over "mat_E89560BBB285CA2D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E89560BBB285CA2D_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/E89560BBB285CA2D_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_E8C4FC3F46885E17"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E8C4FC3F46885E17_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/E8C4FC3F46885E17_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_E91BD94FC4C7620D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/E91BD94FC4C7620D_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/E91BD94FC4C7620D_normal.dds@
+            }
+        }
+
+        over "mat_EB74966E0EF0B481"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/EB74966E0EF0B481_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/EB74966E0EF0B481_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_EBDA00F1870D1F79"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/EBDA00F1870D1F79_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/EBDA00F1870D1F79_normal.dds@
+            }
+        }
+
+        over "mat_ECE164731CDA25F7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/ECE164731CDA25F7_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/ECE164731CDA25F7_normal.dds@
+            }
+        }
+
+        over "mat_EE2B112571BEE262"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/EE2B112571BEE262_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/EE2B112571BEE262_normal.dds@
+            }
+        }
+
+        over "mat_EF9D0588CFA3879B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/EF9D0588CFA3879B_diffuse.dds@
+            }
+        }
+
+        over "mat_F2B504905CEC25C0"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/F2B504905CEC25C0_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/F2B504905CEC25C0_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_F472362C297D7CF6"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/F472362C297D7CF6_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_F5C92D98F6AD92CF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/F5C92D98F6AD92CF_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/F5C92D98F6AD92CF_normal.dds@
+            }
+        }
+
+        over "mat_F790787FAAC8CFDF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/F790787FAAC8CFDF_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/F790787FAAC8CFDF_normal.dds@
+            }
+        }
+
+        over "mat_F863735582A78C57"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/F863735582A78C57_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/F863735582A78C57_normal.dds@
+            }
+        }
+
+        over "mat_F8C92E77C2CE3EDC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/F8C92E77C2CE3EDC_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/F8C92E77C2CE3EDC_normal.dds@
+            }
+        }
+
+        over "mat_FCCE4B86737AA556"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/FCCE4B86737AA556_diffuse.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Diffuse"
+                    displayName = "Albedo Map"
+                    doc = """The texture specifying the albedo value and the optional opacity value to use in the alpha channel
+
+"""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./tex/FCCE4B86737AA556_normal.dds@ (
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_FCE3ECA902BC91BB"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/FCE3ECA902BC91BB_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/FCE3ECA902BC91BB_normal.dds@
+            }
+        }
+
+        over "mat_FD9BFBD62EB91515"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/FD9BFBD62EB91515_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/FD9BFBD62EB91515_normal.dds@
+            }
+        }
+
+        over "mat_FE95701757AD3F29"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./tex/FE95701757AD3F29_diffuse.dds@
+                asset inputs:normalmap_texture = @./tex/FE95701757AD3F29_normal.dds@
+            }
+        }
+    }
+}
+
